@@ -1,0 +1,73 @@
+.nav-item .nav-link{
+   margin-left: 40px;
+   color: white;
+   font-style: italic;
+   
+}
+
+.navbar-nav{
+    margin-left: 300px;
+    
+    
+}
+.Accueil{
+    background-image: url('img/jordan6.jpeg' );
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Hauteur de la section héros */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white; /* Couleur du texte */
+    text-align: center;
+    
+    margin-bottom: 4rem;
+    
+    font-style: italic;
+    font-size: 25px;
+}
+.card1,.card2,.card3,.card4{
+    display: flex;
+    display: inline-block;
+    background-color: white;
+    
+       
+}
+
+.card-img-top {
+    width: 100%; /* Prend toute la largeur de la carte */
+    height: 150px; /* Hauteur fixe pour toutes les images */
+    object-fit: cover; /* Maintient les proportions et remplit l'espace */
+    
+    
+}
+
+.products{
+    background-color: black;
+    margin-bottom: 2rem;
+}
+
+.nav-link:hover {
+    color: #ffcc00; /* Couleur au survol */
+    font-weight: bold; 
+}
+
+.card-title{
+    text-align: center;
+    color: rgba(165, 42, 42, 0.884);
+}
+    
+.card-text{
+    text-align: justify;
+    
+    
+   
+}
+
+
+
+
+
+
+
+  
